@@ -55,4 +55,5 @@ Hauptmenü
 Die Anwendung speichert den Fortschritt für jedes Thema und jedes Unterthema, sowie die Anzahl und Ergebnisse der Prüfungssimulationen.
 Der Nutzen soll sich zu jedem Thema einige Daten anzeigen lassen können, wie etwa die mit dem Thema verbrachte Zeit.
 
+!!!Commit-Test Git in Visual Studio Code!!!
 
