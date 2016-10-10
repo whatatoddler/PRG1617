@@ -57,7 +57,7 @@ Hauptmenü
         Steuerung
         Credits
 
-Da es sich um eine Lernsoftware handelt, steht die Vermittlung des aktuellen Stands und des Fortschritts des Anwenders im Fokus.
+Da es sich um eine Lernsoftware handelt, steht die Vermittlung des aktuellen Stands und des Fortschritts des Anwenders im Fokus dessen, was das Interface an Informationen vermitteln soll.
 Dementsprechend soll das Interface...
     ... im Hauptmenü den Gesamtstand (Prozentsatz abgeschlossene Lektionen/Prüfungen) visuell darstellen, inkl. einem Gesamt-Fortschrittsbalken.
     ... beim klicken/öffnen des Fortschrittbalkens oder beim Auswählen eines bestimmten Themas den entsprechenden Fortschrittsbalken darstellen.
