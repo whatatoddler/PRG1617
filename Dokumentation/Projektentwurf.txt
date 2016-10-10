@@ -2,6 +2,64 @@
 === Entwurf: Lernsoftware Chemie Grundlagen, v_1.0, 2016-10-03 ===
 ==============================================================================
 
+---------
+Überblick
+---------
 
+Konzipiert werden soll eine Software, die:
+    - Studienanfängern von relevanten Studiengängen die Grundlagen der Allgemeinen Chemie vermittelt
+    - Sie beim Vertiefen/Lernen der Inhalte des entsprechenden Grundlagenkurses unterstützt
+    - Eine Funktion bietet, das Gelernte abzufragen, d.h. über eine Prüfungssimulation zu prüfen
 
+Da die Vorkenntnisse der Studierenden stark variieren, werden alle Grundlagenthemen eher breitgefächert angerissen werden,
+um alle Studenten auf einen Stand zu bringen.
+Die Anwendung soll vertont sein! Das Wissen soll sowohl über Text (bzw. andere visuelle Elemente) als auch über Sprache vermittelt werden.
 
+Grober Themenüberblick:
+    - Einführung
+    - Periodensystem der Elemente
+    - Aggregatzustände
+    - Atomaufbau und -modelle
+    - Chemische Bindungen
+    - Stöchiometrie
+
+---------------------------------
+Funktionalität und Interaktivität
+---------------------------------
+
+Die verschiedenen Themenbereiche bieten die Möglichkeit, verschiedene Visualisierungen und Interaktionen für das Lernen zu nutzen.
+Beispiel: Am Ende des Kapitels "Einführung" wird der Nutzer von einem einfachen Quiz getestet, da hier hauptsächlich Fakten, Grundregeln und Grundsätzliches abgefragt werden.
+Im Gegensatz dazu kann das Periodensystem interaktiv umgesetzt werden, mit klickbaren Kacheln für die einzelnen Elemente, die (mehr) Details zu den jeweiligen Stoffen beinhalten.
+
+Struktur der Oberflächen:
+
+Hauptmenü
+    Themenauswahl
+        Thema1
+            Fortsetzen
+            Von Vorne
+        Thema2
+            Fortsetzen
+            Von Vorne
+        Thema3
+            Fortsetzen
+            Von Vorne
+    Statistiken/Fortschrittsbalken Gesamt (klickbar)
+        Fortschrittsbalken Thema1
+        Fortschrittsbalken Thema2
+        Fortschrittsbalken Thema3
+        Statistiken
+    Optionen
+        Darstellung
+        Sound
+        (Sprache)
+     Extras
+        Steuerung
+        Credits
+
+Da es sich um eine Lernsoftware handelt, steht die Vermittlung des aktuellen Stands und des Fortschritts des Anwenders im Fokus.
+Dementsprechend soll das Interface...
+    ... im Hauptmenü den Gesamtstand (Prozentsatz abgeschlossene Lektionen/Prüfungen) visuell darstellen, inkl. einem Gesamt-Fortschrittsbalken.
+    ... beim klicken/öffnen des Fortschrittbalkens oder beim Auswählen eines bestimmten Themas den entsprechenden Fortschrittsbalken darstellen.
+
+Die Fortschrittsbalken sollen mehrere Elemente beinhalten, um so geschachtelte Informationen und auf einen Blick eine Einschätzung über den Stand zu vermitteln.
