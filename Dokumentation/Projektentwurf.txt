@@ -63,3 +63,43 @@ Dementsprechend soll das Interface...
     ... beim klicken/öffnen des Fortschrittbalkens oder beim Auswählen eines bestimmten Themas den entsprechenden Fortschrittsbalken darstellen.
 
 Die Fortschrittsbalken sollen mehrere Elemente beinhalten, um so geschachtelte Informationen und auf einen Blick eine Einschätzung über den Stand zu vermitteln.
+
+===================================
+=== Feedback Alpers, 2016-10-18 ===
+===================================
+
+=== 1.) Inhaltliches
+
+== 1.1.) Zusammenfassung
+
+Der Überblick ist noch zu umfangreich formuliert. Es ist essentiell, dass Interessierte sich einen schnellen Überblick verschaffen können.
+Bsp.:
+Konzipiert werden soll eine Software, die:
+- Studienanfängern von relevanten Studiengängen die Grundlagen der Allgemeinen Chemie vermittelt
+
+Besser:
+- Zielgruppe: Studienanfänger
+- Inhalt 1: Grundlagen der Allgemeinen Chemie vermitteln
+
+== 1.2.) Inhalt
+
+Leider fehlt danach der eigentlich relevante Teil: Sie schreiben nichts dazu, wie die drei Punkte aus der Zusammenfassung vermittelt werden sollen:
+- Studienanfängern von relevanten Studiengängen die Grundlagen der Allgemeinen Chemie vermittelt
+- Sie beim Vertiefen/Lernen der Inhalte des entsprechenden Grundlagenkurses unterstützt
+- Eine Funktion bietet, das Gelernte abzufragen, d.h. über eine Prüfungssimulation zu prüfen
+
+In anderen Worten: Sie haben bislang noch gar keinen Inhalt für Ihre Anwendung ausgearbeitet. Hier ein paar Fragen, die Ihnen als Starthilfe dabei helfen sollen, genau das auszuarbeiten. Die Reihenfolge ist dabei ausgesprochen wichtig! Gerade an den letzten Punkten werden Sie im Laufe des Projekts immer wieder weiter arbeiten.
+
+- Welche Grundlagen sind das? (Darauf sind Sie bereits eingegangen.)
+- Gibt es hier Teile, die unterschiedlich vermittelt werden müssen?
+- Wie werden die Grundlagen vermittelt?
+- Was wird die Anwendung anbieten, um beim Vertiefen/Lernen zu unterstützen?
+- Welche weitergehenden Möglichkeiten muss die Software noch bieten? (Auswendig gelerntes abzufragen reicht selbst in der Oberstufe nicht aus. Es gibt da noch andere Aufgabentypen. Welche sind das?)
+- Was kann die Anwendung anbieten, damit es sich um eine verteilte Anwendung handelt?
+- Was kann die Anwendung (neben dem Fortschrittsbalken) anbieten, um für individuelle NutzerInnen eine individuelle Unterstützung anzubieten?
+
+== 1.3.) Struktur? Warum Struktur?
+
+Stattdessen entwerfen Sie gleich die vollständige Struktur. Das ist mangelhaft, weil Sie so eine Software strukturieren, die keinen Inhalt hat. Auch in der Aufgabenstellung ist klar vorgegeben, dass die Ansichten (und nichts anderes haben Sie da oben notiert) erst als allerletzter Teil der Konzeption erstellt werden sollen.
+
+Lesen Sie bitte nochmal in Ruhe die Aufgabenstellung durch und setzen Sie sie konsequent um. Sie sollen zwar später immer wieder alle Teile des Projekts überarbeiten, aber wenn Sie wie hier die Grundlage des Projekts ignorieren kann nichts sinnvolles dabei herauskommen.
